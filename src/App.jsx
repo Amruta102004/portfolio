@@ -12,7 +12,7 @@ export default function App() {
       <About />
       <TechStack />
       <Projects />
-      <GithubStats />
+      {/* <GithubStats /> */}
       <Contact />
     </div>
   );

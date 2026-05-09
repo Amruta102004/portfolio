@@ -25,13 +25,14 @@ export default function About() {
           <FaJava />
           </div>
 
-          <h3 className="text-3xl font-semibold mt-10 mb-6 text-gray-800">
+          <h3 className="text-3xl font-semibold mt-10 mb-6 text-gray-800 text-center">
             Professional Summary
           </h3>
 
-          <p className="text-gray-600 leading-8 text-lg">
-            Information Technology undergraduate with strong foundations
+          <p className="text-gray-600 leading-8 text-lg text-center">
+            Computer Science undergraduate (2026) with strong foundations
             in DSA, OOP, MERN Stack and scalable application development.
+            Experienced in building scalable applications with Java, MERN Stack and MongoDB. Passionate about delivering innovative software solutions and improving user experience.
           </p>
 
         </div>
@@ -43,7 +44,7 @@ export default function About() {
           <FaLightbulb />
           </div>
 
-          <h3 className="text-3xl font-semibold mt-10 mb-8 text-gray-800">
+          <h3 className="text-3xl font-semibold mt-10 mb-8 text-gray-800 text-center">
             Skills & Interests
           </h3>
 
@@ -84,28 +85,28 @@ export default function About() {
           </div>
 
           <h3 className="text-3xl font-bold mb-6 text-gray-800">
-            B.E. Information Technology
+            B.E. Computer Science - Trinity Academy of Engineering
           </h3>
 
           <p className="text-gray-500 text-lg mb-4">
-            2022 – 2025 | CGPA: 7.83
+            2023 – 2026 | CGPA: 7.65
           </p>
 
           <p className="text-gray-600 leading-7">
-            Worked on scalable Java, Spring Boot and MERN Stack projects.
+            Worked on scalable Java, and MERN Stack projects focusing on performance and scalability.
           </p>
 
           <div className="mt-12">
             <h3 className="text-3xl font-bold mb-4 text-gray-800">
-              Diploma in Computer Engineering
+              Diploma in Computer Engineering - GP Osmanabad
             </h3>
 
             <p className="text-gray-500 text-lg mb-4">
-              2019 – 2022 | 88.63%
+              2020 – 2023 | 84.46%
             </p>
 
             <p className="text-gray-600 leading-7">
-              Built strong programming and hardware fundamentals.
+              Developed foundational skills in programming, data structures, and hardware systems.
             </p>
           </div>
         </div>
@@ -118,15 +119,16 @@ export default function About() {
           </div>
 
           <h3 className="text-3xl font-bold mb-6 text-gray-800">
-            Web Intern – Company Name
+            MERN Stack Intern – EY GDS (Ernst & Young Global Deliver Services)
           </h3>
 
           <p className="text-gray-500 text-lg mb-4">
-            Feb – Apr 2024
+            Feb – Apr 2025
           </p>
 
           <p className="text-gray-600 leading-7">
-            Built MERN stack applications and optimized APIs.
+            Built MERN stack applications and optimized APIs. Developed 10+ dynamic UI components with React.js, implemented RESTful APIs using Express.js and Node.js, and managed
+            a scalable database with MongoDB.
           </p>
 
         </div>
