@@ -64,7 +64,7 @@ export default function Projects() {
 
             {/* GitHub */}
             <a
-              href="https://github.com/YOUR-GITHUB-LINK"
+              href="https://github.com/Amruta102004/super-calculator"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#1e293b] text-white px-6 py-3 rounded-xl flex items-center gap-2 text-sm shadow-md hover:scale-105 transition duration-300"
@@ -75,7 +75,7 @@ export default function Projects() {
 
             {/* Live */}
             <a
-              href="https://YOUR-LIVE-LINK.com"
+              href="https://github.com/Amruta102004/super-calculator"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#1677ff] text-white px-6 py-3 rounded-xl flex items-center gap-2 text-sm shadow-md hover:scale-105 transition duration-300"
@@ -125,7 +125,7 @@ export default function Projects() {
 
             {/* GitHub */}
             <a
-              href="https://github.com/YOUR-GITHUB-LINK"
+              href="https://github.com/Amruta102004/PrepAI"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#1e293b] text-white px-6 py-3 rounded-xl flex items-center gap-2 text-sm shadow-md hover:scale-105 transition duration-300"
@@ -136,7 +136,7 @@ export default function Projects() {
 
             {/* Live */}
             <a
-              href="https://YOUR-LIVE-LINK.com"
+              href="https://prep-ai-alpha-nine.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#1677ff] text-white px-6 py-3 rounded-xl flex items-center gap-2 text-sm shadow-md hover:scale-105 transition duration-300"
