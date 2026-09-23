@@ -30,7 +30,7 @@ export default function About() {
           </h3>
 
           <p className="text-gray-600 leading-8 text-lg text-center">
-            Computer Science undergraduate (2026) with strong foundations
+            Computer Science graduate (2026) with strong foundations
             in DSA, OOP, MERN Stack and scalable application development.
             Experienced in building scalable applications with Java, MERN Stack and MongoDB. Passionate about delivering innovative software solutions and improving user experience.
           </p>
